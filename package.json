@@ -1,0 +1,8 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xyz0405/web-scraping.git",
+  "author": "Truong Nguyen <nguyentruong.xyz0405@gmail.com>",
+  "license": "MIT"
+}
